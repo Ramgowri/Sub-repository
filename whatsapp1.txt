@@ -1,0 +1,11 @@
+This is own repository
+ 
+Author: Gowri 
+
+1. Profile code with dp
+
+2. Chat code feature
+
+3. Last seen feature
+
+4. Attachments(Image,Audio,Video)code with feature
