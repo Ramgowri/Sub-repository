@@ -9,3 +9,9 @@ Author: Gowri
 3. Last seen feature
 
 4. Attachments(Image,Audio,Video)code with feature
+
+5. Hidding last seen
+
+6. Adding the video call feature
+
+7. Adding the audio call feature
