@@ -19,3 +19,5 @@ Author: Gowri
 8. Playing games in app
 
 9. Invite feature
+
+10. Group chatting feature 
